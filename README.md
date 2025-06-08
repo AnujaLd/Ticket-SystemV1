@@ -26,7 +26,7 @@ This application allows support agents to manage customer inquiries by creating,
 ## Technologies Used
 
 ### Backend
-- Laravel 10.x
+- Laravel
 - MySQL
 - PHP 8.4
 
